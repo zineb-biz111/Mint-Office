@@ -6,7 +6,7 @@
     text-align: center;
     font-size:57px;
     background-color:rgb(133, 192, 174);
-    background-image: url(media/homenav.jpg);
+    background-image: url('media/homenav.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid black;
@@ -28,7 +28,7 @@ body {
 }
 .desk-title a{
     display: block;
-    background-image: url(media/home.png);
+    background-image: url('media/home.png');
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: rgb(39, 36, 36);
     font-family: 'Times New Roman', Times, serif;
@@ -45,7 +45,7 @@ body {
 
 .navigation {
     text-align: center;
-    background-image: url(media/homenav.jpg);
+    background-image: url('media/homenav.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(133, 192, 174);
@@ -81,7 +81,7 @@ body {
 }
 .deadline {
     color: white;
-    background-image: url(media/greenhearts.jpg);
+    background-image: url('media/greenhearts.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(133, 192, 174);
@@ -98,7 +98,7 @@ body {
 }
 .to-do {
     color: white;
-    background-image: url(media/greenhearts.jpg);
+    background-image: url('media/greenhearts.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(133, 192, 174);
@@ -119,7 +119,7 @@ body {
     padding-top: 44px;
     padding-left: 27px;
     padding-right: 15px;
-    background-image: url(Media/skins.gif);
+    background-image: url('Media/skins.gif');
     background-size: cover;
     background-repeat: no-repeat;
     width: 280px;
@@ -139,7 +139,7 @@ body {
     width: 150px;
     height: 40px;
     align-self: center;
-    background-image: url(media/greenhearts.jpg);
+    background-image: url('media/greenhearts.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
