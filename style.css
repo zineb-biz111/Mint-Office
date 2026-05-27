@@ -81,7 +81,7 @@ body {
 }
 .deadline {
     color: white;
-    background-image: url('media/greenhearts.jpg');
+    background-image: url('greenhearts.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(133, 192, 174);
