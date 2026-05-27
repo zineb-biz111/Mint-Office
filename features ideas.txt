@@ -1,0 +1,21 @@
+Rain background
+page
+Sticky notes [done]
+Progress tracking with cute pixel art
+page/dashboard (daily word count)
+Scene ideas page (Sticky notes and images)
+word bank page
+name bank
+character profiles
+playlist with music player
+brainstorm graph
+Locations with media and or map (possibly interactive maps)
+Outline
+Nav names: desk, sticky board, bank, 
+to do list on home page?
+something generator
+checkered lined page
+weather toggle (day, night, rain, sunny)
+animation when saving
+timer at the desk
+Checkered board

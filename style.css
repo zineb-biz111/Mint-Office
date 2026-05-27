@@ -1,0 +1,323 @@
+.main-title {
+    color: rgb(165, 255, 216);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:57px;
+    background-color:rgb(133, 192, 174);
+    background-image: url(media/homenav.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-bottom: 100px;  
+    margin-left: 80px;
+    margin-right: 80px;
+}
+body {
+    min-height: 100vh;
+    background: linear-gradient(
+        to top,
+        rgb(151, 231, 197) 10%,
+        rgb(119, 177, 152) 30%,
+        rgb(89, 134, 115) 60%,
+        rgb(75, 116, 99) 90% 
+);
+
+}
+.desk-title a{
+    display: block;
+    background-image: url(media/home.png);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: rgb(39, 36, 36);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:9px;
+    background-color:rgb(84, 112, 104);
+    border: 1px solid black;
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    justify-self: left;
+}
+
+.navigation {
+    text-align: center;
+    background-image: url(media/homenav.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(133, 192, 174);
+    position: relative;
+    font-size: 23px;
+    width: 100%;
+    padding: 25px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    list-style: none;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    justify-content: space-evenly;
+}
+.home-widgets {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: stretch;
+}
+.home-widgets-left {
+    display: flexbox;
+    justify-content: left;
+    flex-direction: column;
+    
+}
+.home-widgets-right {
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    
+}
+.deadline {
+    color: white;
+    background-image: url(media/greenhearts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(133, 192, 174);
+    position: relative;
+    font-size: 25px;
+    min-width: 280px;
+    height: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: lighter;
+    flex-shrink: 0;
+    
+}
+.to-do {
+    color: white;
+    background-image: url(media/greenhearts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(133, 192, 174);
+    justify-content: center;
+    position: relative;
+    font-size: 25px;
+    min-width: 280px;
+    height: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    flex-shrink: 0;
+          
+}
+.to-do-text {
+    padding-top: 44px;
+    padding-left: 27px;
+    padding-right: 15px;
+    background-image: url(Media/skins.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    line-height: 1.5;
+    color: white;
+    border: 3px rgb(8, 77, 8);
+    flex-shrink: 0;
+    text-align: justify;
+    
+   
+    
+}
+.save {
+    width: 150px;
+    height: 40px;
+    align-self: center;
+    background-image: url(media/greenhearts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 11px;
+}
+/*desk */
+.desk-page {
+    background-image: url('media/Gundula\ Blumi\ \(@gundulablumi\)\ on\ Tumblr.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.desk-area {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+    align-items: flex-start;
+    max-width: 100%;    
+}
+.savebtn {
+    background-image: url('media/save\ button.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    width: 150px;
+    height: 40px;
+    align-self: center;
+    margin-bottom: 10px ;
+}
+.desk-widget-right {
+    display: flexbox;
+    align-items: center;
+}
+/*
+.timer {
+    background-image: url('media/run.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 190px;
+    flex-shrink: 0;
+    min-width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: bolder;
+    border: solid 2px;
+    border-color: aliceblue;
+    margin-top: 80px;
+    
+   
+}
+*/
+.desk-center {
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    align-items: stretch;  
+
+}
+.desk-textbox {
+    height: 800px;
+    -webkit-text-stroke: 0.6px;
+    -webkit-text-stroke-color: black;
+    flex-shrink: 0 ;
+    align-self: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: white;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 10px 15px;
+    text-indent: 40px;
+    width: clamp(600px, 50vw, 800px);
+    max-width: 100%;
+    background-image: url('media/DPR\ Ian\ \(4\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: auto;
+    scrollbar-width: none;   
+    padding-bottom: 200px;
+   
+}
+
+.desk-widget-left {
+    gap: 30px;
+    opacity: 0.8;
+    color: black;
+    align-items: center;
+   
+   }
+.orange-note {
+    background-image: url('media/moto.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 170px;
+    flex-shrink: 0;
+    min-width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: bolder;
+    
+
+}
+
+.green-note {
+    background-image: url('media/coffee.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 170px;
+    flex-shrink: 0;
+    min-width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: bolder;
+}
+.blue-note {
+    background-image: url('media/sink.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 170px;
+    flex-shrink: 0;
+    min-width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: bolder;
+}
+.yellow-note {
+     background-image: url('media/homenav.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 170px;
+    width: 170px;
+    flex-shrink: 0;
+    min-width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: bolder;
+}
+.desk-widget-left,
+.desk-widget-right {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    
+}
+.desk-textbox,
+.desk-widget-left,
+.desk-widget-right {
+  min-width: 0;
+  flex-shrink: 1;
+  overflow-x: hidden;
+  
+  
+}
+a:link {
+    color:white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: rgb(116, 1, 1);
+}
