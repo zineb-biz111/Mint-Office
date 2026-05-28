@@ -6,7 +6,7 @@
     text-align: center;
     font-size:57px;
     background-color:rgb(133, 192, 174);
-    background-image: url('media/homenav.jpg');
+    background-image: url('Media/homenav.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid black;
@@ -28,7 +28,7 @@ body {
 }
 .desk-title a{
     display: block;
-    background-image: url('media/home.png');
+    background-image: url('Media/home.png');
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: rgb(39, 36, 36);
     font-family: 'Times New Roman', Times, serif;
@@ -45,7 +45,7 @@ body {
 
 .navigation {
     text-align: center;
-    background-image: url('media/homenav.jpg');
+    background-image: url('Media/homenav.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(133, 192, 174);
@@ -98,7 +98,7 @@ body {
 }
 .to-do {
     color: white;
-    background-image: url('media/greenhearts.jpg');
+    background-image: url('Media/greenhearts.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(133, 192, 174);
@@ -139,7 +139,7 @@ body {
     width: 150px;
     height: 40px;
     align-self: center;
-    background-image: url('media/greenhearts.jpg');
+    background-image: url('Media/greenhearts.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -149,7 +149,7 @@ body {
 }
 /*desk */
 .desk-page {
-    background-image: url('media/Gundula\ Blumi\ \(@gundulablumi\)\ on\ Tumblr.jpg');
+    background-image: url('Media/Gundula\ Blumi\ \(@gundulablumi\)\ on\ Tumblr.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -163,7 +163,7 @@ body {
     max-width: 100%;    
 }
 .savebtn {
-    background-image: url('media/save\ button.png');
+    background-image: url('Media/save\ button.png');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -178,7 +178,7 @@ body {
 }
 /*
 .timer {
-    background-image: url('media/run.gif');
+    background-image: url('Media/run.gif');
     background-size: cover;
     background-repeat: no-repeat;
     height: 180px;
@@ -220,7 +220,7 @@ body {
     text-indent: 40px;
     width: clamp(600px, 50vw, 800px);
     max-width: 100%;
-    background-image: url('media/DPR\ Ian\ \(4\).jpg');
+    background-image: url('Media/DPR\ Ian\ \(4\).jpg');
     background-repeat: no-repeat;
     background-size: cover;
     overflow-y: auto;
@@ -237,7 +237,7 @@ body {
    
    }
 .orange-note {
-    background-image: url('media/moto.gif');
+    background-image: url('Media/moto.gif');
     background-size: cover;
     background-repeat: no-repeat;
     height: 170px;
@@ -254,7 +254,7 @@ body {
 }
 
 .green-note {
-    background-image: url('media/coffee.gif');
+    background-image: url('Media/coffee.gif');
     background-size: cover;
     background-repeat: no-repeat;
     height: 170px;
@@ -268,7 +268,7 @@ body {
     font-weight: bolder;
 }
 .blue-note {
-    background-image: url('media/sink.gif');
+    background-image: url('Media/sink.gif');
     background-size: cover;
     background-repeat: no-repeat;
     height: 170px;
@@ -282,7 +282,7 @@ body {
     font-weight: bolder;
 }
 .yellow-note {
-     background-image: url('media/homenav.jpg');
+     background-image: url('Media/homenav.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 170px;
